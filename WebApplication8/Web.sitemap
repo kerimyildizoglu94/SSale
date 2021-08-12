@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+      <siteMapNode url="index.aspx" title="Ana Sayfa"  description="Ayarlar">
+      <siteMapNode url="girenurunler.aspx" title="Giren Ürünler"  description="Satın Alma" />
+      <siteMapNode url="kategori.aspx" title="Kategori"  description="Katori" />
+      <siteMapNode url="kategoriduzenle.aspx" title="Kategori Duzenle"  description="Kategori Duzenleme" />
+      <siteMapNode url="login.aspx" title="Giriş Sayfası"  description="Login Sayfası" />
+      <siteMapNode url="musteriduzenle.aspx" title="Müşteri Düzenle"  description="musteriduzenle" />
+      <siteMapNode url="musteriekle.aspx" title="Müşteri Kayıt"  description="musteriekle" />
+      <siteMapNode url="personelduzenle.aspx" title="Personel Kayıtlarını Düzenle"  description="personelduzenle" />
+      <siteMapNode url="personelekle.aspx" title="Personel Kayıt"  description="personelekle" />
+      <siteMapNode url="satis.aspx" title="Satiş Sayfası"  description="satis" />
+      <siteMapNode url="urunduzenle.aspx" title="Ürün Düzenleme"  description="Ürün Düzelt" />
+      <siteMapNode url="urunekle.aspx" title="Ürün Ekleme"  description="Ürün Ekle" />
+    
+    </siteMapNode>
+</siteMap>
